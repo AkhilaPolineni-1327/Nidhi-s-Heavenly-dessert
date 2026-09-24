@@ -25,8 +25,7 @@ Nidhi's Heavenly Dessert is a sweet and attractive dessert website designed to p
 * Prototyping
 
 ## 🔗 Figma Prototype
-
-[View Figma Prototype](PASTE-YOUR-FIGMA-LINK-HERE)
+https://www.figma.com/design/MqP80gKEMDJixyY4hcxKrI/Untitled?node-id=0-1&t=goFRMoAWxCGzR55B-1
 
 ## 📌 Project Type
 
